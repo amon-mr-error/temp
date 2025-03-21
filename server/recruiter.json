@@ -1,0 +1,35 @@
+[
+  {
+    "companyName": "NYD",
+    "username": "nyd",
+    "password": "1234",
+    "phoneNumber": "1234567890",
+    "email": "nyd@gmail.com",
+    "positionsList": [
+      {
+        "jobPosition": "Data Scientist",
+        "salaryRange": "10-500",
+        "jobDescription": {}
+      },
+      {
+        "jobPosition": "Full Stack Developer",
+        "salaryRange": "5000-15000",
+        "jobDescription": {}
+      }
+    ]
+  },
+  {
+    "companyName": "Hustlers",
+    "username": "hustlers",
+    "password": "1234",
+    "phoneNumber": "7894561230",
+    "email": "hustlers@gmail.com",
+    "positionsList": [
+      {
+        "jobPosition": "Senior Developer",
+        "salaryRange": "1-5",
+        "jobDescription": {}
+      }
+    ]
+  }
+]

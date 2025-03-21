@@ -1,0 +1,14 @@
+[
+  {
+    "username": "sharda",
+    "universityName": "Sharda University",
+    "email": "sharda@gmail.com",
+    "password": "1234"
+  },
+  {
+    "username": "amity",
+    "universityName": "Amity University",
+    "email": "amity@gmail.com",
+    "password": "1234"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Devaki Nandan Karna",
+    "phoneNumber": "7065965304",
+    "email": "kes.karna12@gmail.com",
+    "university": "Sharda University",
+    "cv": {},
+    "positions": [
+      "Data Scientist"
+    ]
+  },
+  {
+    "name": "Safal Bhandari",
+    "phoneNumber": "9826421116",
+    "email": "safal@gmail.com",
+    "university": "Amity University",
+    "cv": {},
+    "positions": [
+      "Data Scientist",
+      "Full Stack Developer",
+      "Senior Developer"
+    ]
+  }
+]
